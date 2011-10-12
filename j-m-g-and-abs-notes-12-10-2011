@@ -1,0 +1,27 @@
+RepRapPro Electronics
+
+Arduino Leonardo (ATmega32u4) http://blog.makezine.com/archive/2011/09/arduino-leonardo-opens-doors-to-product-development.html
+StepStick http://reprap.org/wiki/StepStick
+Teensylu http://reprap.org/wiki/Teensylu
+Kliment's SD board
+
+Dates:
+
+100 boards delivered 1 December
+Order with gerber files etc 7 November
+2nd Prototype tested 3 November
+1st Prototype tested 26 October
+Design finished 20 October
+AB - processor
+J-MG - Drivers
+
+Costs:
+
+£14 soldering
+£20 components
+£4 board
+
+Tot: £40
+
+Bed - active, but designed so it can be passive too; controller can drive either.
+

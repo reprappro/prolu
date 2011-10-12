@@ -1,0 +1,11 @@
+BOM
+
+PCB
+C1  2.2uF Tantalum
+IC1 74HC4050
+IC2 MIC5209-3.3YS
+LED1 LED1206 red
+R1  1kOhm 1206
+SV1/SV2  6x2 stackable header
+U$1 MicroSD socket
+
